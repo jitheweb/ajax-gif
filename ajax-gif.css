@@ -1,0 +1,62 @@
+body {
+    background-image: url(movietime.jpg);
+}
+
+h1 {
+    background-color: rgba(255, 255, 0, .8);
+    font-size: 90px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    border: 6px solid red;
+    text-align: center;
+}
+
+.row {
+    margin-bottom: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.btn {
+
+    font-size: 20px;
+    background-color: black;
+    color: yellow;
+    padding: 10px;
+}
+
+.btn:hover {
+    color: red;
+}
+
+.movie-button {
+    margin: 10px;
+}
+
+.groove-border {
+    border: 6px solid red;
+}
+
+
+.gif-image {
+    margin: 20px;
+}
+
+.individual-gif-container {
+    float: left;
+    margin: 2vh 3vw 2vh 3vw;
+}
+
+.col-md-3 {
+    border: 6px solid red;
+    font-size: 30px;
+    color: black;
+    background-color: rgba(255, 255, 0, .8);
+}
+
+#gif-container {
+    font-size: 22px;
+    border: 6px solid red;
+    background-color: rgb(255, 255, 255, .5);
+
+}
